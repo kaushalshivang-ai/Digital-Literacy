@@ -12,3 +12,5 @@
 **Who is usually targeted:** College students and young professionals are prime targets. They are frequently looking for internships, may lack corporate experience, and are more likely to trust digital communications without verifying the sender's authenticity.
 
 **The consequences:** The aftermath is devastating. Financially, victims are burdened with loans they never took, instantly ruining their credit scores before their careers even begin. Legally, they might face police inquiries if their identity is traced to other cybercrimes. Additionally, the emotional distress and the hundreds of hours required to freeze accounts, file FIRs, and restore their stolen identity are overwhelming.
+
+**Author:** Shivang Kaushal
