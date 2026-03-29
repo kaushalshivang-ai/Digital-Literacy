@@ -1,4 +1,4 @@
-# CSE0001 - Digital Literacy Project Portfolio
+# CSE0001 - Digital Literacy Project 
 
 ## Student Details
 * **Name:** Shivang Kaushal
