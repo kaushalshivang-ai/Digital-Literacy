@@ -2,8 +2,8 @@
 
 ## Student Details
 * **Name:** Shivang Kaushal
-* **Registration Number:** [Your Reg No.]
-* **Branch:** First Year B.Tech, Computer Science and Engineering (AI & ML)
+* **Registration Number:** 25BAI10965
+* **Branch:** B.Tech, Computer Science and Engineering (AI & ML)
 * **Institution:** VIT Bhopal University
 * **Course Code:** CSE0001 - Digital Literacy
 
