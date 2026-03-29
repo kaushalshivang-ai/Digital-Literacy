@@ -1,5 +1,4 @@
 ### **Case Study: Identity Theft Through Fake Internship Offers**
-**Author:** Shivang Kaushal
 
 **What the crime is:** Identity theft is a severe cybercrime where a malicious actor wrongfully obtains and exploits another person's sensitive personal data—such as government IDs or financial details—typically for financial gain or to commit fraud under the victim's name.
 
