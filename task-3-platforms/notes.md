@@ -8,5 +8,5 @@
 ## Part B: Google Workspace Collaboration
 * **Platform Used:** Google Forms & Google Sheets
 * **Activity:** Developed a 5-question "Digital Literacy Awareness Quiz" intended for batchmates. The quiz includes both multiple-choice and short-answer formats, testing critical concepts like UPI safety, Two-Factor Authentication (2FA), public Wi-Fi risks, and official cybercrime reporting channels.
-* **Live Form Link:** [Paste your Google Form link here]
+* **Live Form Link:** https://forms.gle/wSxqVRXoJ1su8PWs8
 * **Proof:** Visual proof of the completed form and the linked Google Sheet (responses view) are saved as screenshots in this folder.
